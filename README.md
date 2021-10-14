@@ -10,3 +10,7 @@ My Service: Here a provider has an option to view our own service, also able to 
 Booking List: Professionals can check booking status whether it is completed or in-progress or cancelled.
 Notifications: Once the customer is booked the service, Provider will receive the notifications.
 Wallet/Amount Withdraw: At any time Service providers are able to withdraw the payment from wallet to stripe account.
+
+Credentials:
+Username : Demo
+Password : Demo
